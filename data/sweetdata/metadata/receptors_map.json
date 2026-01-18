@@ -1,0 +1,8 @@
+{
+"9UTB": { "state": "active", "tas1r2_chain": "A", "tas1r3_chain": "B" },
+"9NOR": { "state": "active", "tas1r2_chain": "B", "tas1r3_chain": "A" },
+"9NOT": { "state": "active", "tas1r2_chain": "B", "tas1r3_chain": "A" },
+"9NOS": { "state": "active", "tas1r2_chain": "B", "tas1r3_chain": "A" },
+"9OPY": { "state": "apo", "tas1r2_chain": "A", "tas1r3_chain": "B" },
+"9UT8": { "state": "apo", "tas1r2_chain": "A", "tas1r3_chain": "B" }
+}
